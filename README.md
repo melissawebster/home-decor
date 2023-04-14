@@ -1,2 +1,3 @@
 # artsy-home-decor
-Development and customization from a Bootstrap template (HTML, CSS and JavaScript)
+Development and customization from a Bootstrap template (Blog)
+HTML, CSS and JavaScript
